@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
+
+# Build artifacts
+/dist
+/build
+*.zip
+*.tar.gz
+*.tgz
+*.gz
+*.tgz
+*.log
+*.out
+*.obj
+*.exe
+*.dll
+*.class
+*.jar
+*.war
+*.ear
+*.sublime-*
